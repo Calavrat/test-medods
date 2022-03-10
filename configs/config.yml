@@ -1,0 +1,11 @@
+port: "8080"
+
+db:
+  host: "localhost"
+  port: "27017"
+  database: "users-service"
+  collection: "users"
+  auth-db: ""
+  username: ""
+  password: ""
+  
